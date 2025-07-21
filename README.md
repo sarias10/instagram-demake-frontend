@@ -1,14 +1,28 @@
-# Let your note in AWS
+## 🚀 Demo en vivo
 
-Este proyecto es el frontend de Let your note el cual es un pagina web desplegada en su totalidad en los servicios de Amazon Web Services en la que se puede dejar una nota pública para que otras personas tambien puedan leerlas. Esta parte del proyecto esta desarrollada con React, Typescript y AWS
+Visita la app en vivo
+
+👉 [https://instagram-demake.sarias.uk](https://instagram-demake.sarias.uk)
+
+
+## 🗺️ Diagrama de arquitectura en AWS
+Este es el diagrama de despliegue de la página web Instagram Demake en AWS:
+
+
+![arquitectura aws de instagram demake](assets/instagram-demake.png)
+
+
+## 🎬 Funcionamiento de la aplicación
+
+Mira cómo funciona la app en este video (click en la imagen):
+
+[![Demo en video](https://img.youtube.com/vi/Wojw2Cp-O8k/hqdefault.jpg)](https://www.youtube.com/watch?v=Wojw2Cp-O8k)
+
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?logo=amazonaws)
 
-## 🎯 Demo
-
-🔗 [Ver aplicación en producción](https://d1h9ffdvcgkqp8.cloudfront.net/)
 
 # React + TypeScript + Vite
 
